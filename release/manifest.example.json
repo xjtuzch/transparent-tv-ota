@@ -1,0 +1,7 @@
+{
+  "build": 30,
+  "version": "30",
+  "url": "https://github.com/OWNER/REPO/releases/download/v30/TransparentScreen.ino.bin",
+  "md5": "把 bin 文件拖进这个示例并运行 update-manifest.ps1 自动生成"
+}
+
